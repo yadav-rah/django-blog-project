@@ -1,2 +1,2 @@
-django==1.11.28
+django==1.11.29
 django-bootstrap3==11.1.0
